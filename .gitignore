@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+qa-output/
+chapters/*/qa/*.png
+chapters/*/qa/*results.json
+chapters/*/qa/*failure.json
+chapters/*/shape-safari-project.zip
