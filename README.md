@@ -20,6 +20,12 @@ The chapter's established game design and mechanics are preserved. Its Read arti
 
 The same repository also hosts the complete Class 4 Maths Mela package in `class-4/`: 14 chapter cards, exactly four games per chapter including one guided Doodle, 56 game-specific articles, FAQs, restart and extended practice. Its local fonts, game layout and article styling match the Class 5 package. Class 4 and Class 5 use separate saved-progress keys. See `class-4/CURRICULUM.md` and `class-4/VALIDATION.md` for source mappings and checks.
 
+## Class 4 Science & EVS
+
+**[Open NCERT Solutions Class 4 Science & EVS](https://rakesh3834.github.io/NCERT-Solutions-Class-5-Maths/class-4-science/)**
+
+The `class-4-science/` package follows NCERT *Our Wondrous World*, Grade 4: ten chapters with exactly four games per chapter, including one guided Doodle. It includes 40 Read articles, 80 checks, 120 FAQs, experiments, extended practice and per-game restart. Curriculum mappings and validation notes accompany the package. Science and Maths use independent progress keys.
+
 ## Run locally
 
 From this repository, run:
