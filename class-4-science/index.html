@@ -22,13 +22,13 @@
     <header class="class4-head"><a class="class4-brand" href="./"><span class="class4-logo">g<span>k</span></span><span>Go<span style="color:#668534">Kurious</span><small>little discoveries, big adventures</small></span></a><span class="class4-pill">OUR WONDROUS WORLD · CLASS 4</span></header>
     <main class="class4-main">
       <section class="class4-hero"><div class="class4-eyebrow">YOUR SCIENCE ADVENTURE STARTS HERE</div><h1>NCERT Solutions<br><em>Class 4 Science & EVS.</em></h1><p>Pick a chapter. Play with ideas.<br>Discover the science in your world.</p><span class="class4-spark" aria-hidden="true">✧</span></section>
-      <section aria-labelledby="chapters-title"><div class="class4-section-title"><h2 id="chapters-title">Choose your chapter</h2><span>10 chapters · 40 games</span></div><div class="class4-grid" id="chapter-grid"></div></section>
+      <section aria-labelledby="chapters-title"><div class="class4-section-title"><h2 id="chapters-title">Choose your chapter</h2><span>10 chapters · 20 games</span></div><div class="class4-grid" id="chapter-grid"></div></section>
     </main>
     <footer class="class4-footer"><span>MADE FOR CURIOUS MINDS · NCERT OUR WONDROUS WORLD GRADE 4</span><a href="chapters/class-4-science/" aria-label="Open the complete Class 4 Science & EVS package">Open complete package ↗</a></footer>
   </div>
   <script src="chapters/class-4-science/content.js"></script>
   <script>
-  document.querySelector('#chapter-grid').innerHTML=SAFARI.worlds.map((w,i)=>`<a class="class4-card" href="chapters/class-4-science/#ch${i+1}" style="--tile:${w.color}" aria-label="Open Chapter ${i+1}: ${w.name}"><span class="class4-number">${String(i+1).padStart(2,'0')}</span><span class="class4-copy"><small>CHAPTER ${i+1} · PRIORITY ${w.priority}</small><h3>${w.name}</h3><p>${w.subtitle} · 4 games including Doodle</p></span><span class="arrow" aria-hidden="true">↗</span></a>`).join('');
+  document.querySelector('#chapter-grid').innerHTML=SAFARI.worlds.map((w,i)=>`<a class="class4-card" href="chapters/class-4-science/#ch${i+1}" style="--tile:${w.color}" aria-label="Open Chapter ${i+1}: ${w.name}"><span class="class4-number">${String(i+1).padStart(2,'0')}</span><span class="class4-copy"><small>CHAPTER ${i+1} · PRIORITY ${w.priority}</small><h3>${w.name}</h3><p>${w.subtitle} · 2 extended learning games</p></span><span class="arrow" aria-hidden="true">↗</span></a>`).join('');
   </script>
 </body>
 </html>
