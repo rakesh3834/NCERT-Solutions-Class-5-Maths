@@ -14,6 +14,12 @@ Choose the **Chapter 2: Shapes and Angles** card to open the complete learning p
 
 The chapter's established game design and mechanics are preserved. Its Read articles follow the requested GoKurious Moon Phases article structure and typography. Curriculum references use **NCERT Math-Magic, Class 5, Chapter 2: Shapes and Angles**, reprint 2024–25, pages 16–33.
 
+## Class 4 Maths
+
+**[Open NCERT Solutions Class 4 Maths](https://rakesh3834.github.io/NCERT-Solutions-Class-5-Maths/class-4/)**
+
+The same repository also hosts the complete Class 4 Maths Mela package in `class-4/`: 14 chapter cards, exactly four games per chapter including one guided Doodle, 56 game-specific articles, FAQs, restart and extended practice. Its local fonts, game layout and article styling match the Class 5 package. Class 4 and Class 5 use separate saved-progress keys. See `class-4/CURRICULUM.md` and `class-4/VALIDATION.md` for source mappings and checks.
+
 ## Run locally
 
 From this repository, run:
