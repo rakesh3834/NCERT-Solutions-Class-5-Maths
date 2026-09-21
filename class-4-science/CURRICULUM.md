@@ -1,4 +1,12 @@
-# Class 4 Science & EVS: mission redesign
+# Class 4 Science & EVS: curriculum mapping
+
+## Current hands-on update
+
+The latest update replaces the spinner, shadow and paper-making games with **three campaigns of ten separately authored levels each**. See [CAMPAIGNS.md](CAMPAIGNS.md) for the current topic selection and level matrix. The other 17 games retain the earlier mission design documented below. The three new campaigns end after ten levels; they do not use the older 24-mission/free-play loop.
+
+Their current articles cover weight distribution and support, light/object/screen geometry, and paper transformation with resource budgets. Rotor and shadow-cut-out drawing replaces the earlier shadow-prediction drawing in this selection. Existing boat and nature drawing remain. The earlier spinner/paper/shadow entries below describe the previous edition, not the current gameplay.
+
+## Earlier mission design (retained for the other 17 games)
 
 Research revisited on 21 September 2026. Reference: NCERT **Our Wondrous World**, Grade 4, The World Around Us (EVS), book code 0435, first edition March 2025. The downloaded official chapter PDFs are the 2026–27 reprint. All ten chapters were re-read for activities and teacher notes before selecting playable subtopics.
 

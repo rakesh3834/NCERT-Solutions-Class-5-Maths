@@ -1,11 +1,15 @@
-# Class 4 Science & EVS — mission edition
+# Class 4 Science & EVS
 
-20 games across all 10 requested NCERT Our Wondrous World chapters; two per chapter, 83 distinct connected stages, three purposeful drawing games.
+20 games across the ten requested NCERT Our Wondrous World chapters, two per chapter. The latest update rebuilds three games as **30 individually authored hands-on levels**:
 
-Open index.html through a static HTTP server. The chapter package retains the existing GoKurious mobile/tablet styling, Read articles, FAQs and isolated Restart.
+- Spin & Balance Carnival — balance, rotation, speed, shape and weight distribution.
+- Shadow Theatre Adventure — source/object/screen position, changing shadows and cut-out design.
+- Paper Rescue Factory — scraps, pulp, sheets, drying, reuse and resource budgets.
 
-See [CURRICULUM.md](CURRICULUM.md) for official sources, selection rationale and model limitations; [VALIDATION.md](VALIDATION.md) for checks.
+Each campaign ends after ten levels and offers deliberate replay through an unlocked level chooser. Other 17 games retain their previous mission format. Mobile/tablet styling, topic articles, FAQs, hints and per-game Restart remain available.
 
-Run node missions-qa.cjs for logic checks and node missions-browser-qa.cjs with Playwright/Chromium for browser checks. BASE_URL can target a deployment.
+Serve this directory with a static HTTP server. Current tests: `node qa.cjs`, then `node browser-qa.cjs` with PLAYWRIGHT_MODULE and CHROMIUM_PATH configured. BASE_URL can target a deployment.
 
-Public library: https://rakesh3834.github.io/NCERT-Solutions-Class-5-Maths/class-4-science/
+See [CAMPAIGNS.md](CAMPAIGNS.md), [CURRICULUM.md](CURRICULUM.md) and [VALIDATION.md](VALIDATION.md).
+
+[Public library](https://rakesh3834.github.io/NCERT-Solutions-Class-5-Maths/class-4-science/)
